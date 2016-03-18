@@ -23,9 +23,9 @@
   <header>
       <div class="container"> 
           <div class="navbar-info row">
-              <div class="col-md-6">
+              <div class="col-md-5">
               </div>
-              <div class="col-md-6">
+              <div class="col-md-7 col-sm-12 align">
                  <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> 
                  <a href="contacto.php"><p>0241- 872 0230</p></a>
                  <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> 
