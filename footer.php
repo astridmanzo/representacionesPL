@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 logo-footer">
-				<a href="index.php"><img src="logo.png"><h2>Representaciones PL</h2></a>
+				<a href="index.php"><img src="../logo.png"><h2>Representaciones PL</h2></a>
 			</div>
 		</div>
 		<div class="row">

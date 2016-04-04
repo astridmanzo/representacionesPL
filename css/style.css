@@ -5,7 +5,7 @@ body {
   color: #333333;
   background-image: url("../assets/texture.png");
   background-repeat: repeat;
-  max-width: 1560px;
+  max-width: 1360px;
   margin: 0 auto !important;
 }
 
@@ -45,6 +45,13 @@ a {
   -webkit-box-shadow: 0px 10px 14px 0px rgba(50, 50, 50, 0.26);
   -moz-box-shadow: 0px 10px 14px 0px rgba(50, 50, 50, 0.26);
   box-shadow: 0px 10px 14px 0px rgba(50, 50, 50, 0.26);
+}
+
+.notFound, .gracias {
+  padding: 250px 0;
+}
+.notFound h1, .notFound p, .notFound h3, .notFound .boton, .gracias h1, .gracias p, .gracias h3, .gracias .boton {
+  text-align: center;
 }
 
 .nav-container {
@@ -158,8 +165,13 @@ a {
   }
 }
 /* ---- ---- */
+@media (min-width: 993px) {
+  .vcenter {
+    display: flex;
+    align-items: center;
+  }
+}
 .main-page {
-  width: 85%;
   margin: 0 auto;
 }
 
@@ -195,6 +207,10 @@ a {
 
   .navbar-info .align {
     text-align: center !important;
+  }
+
+  .datos-mapa p {
+    font-size: 14px !important;
   }
 }
 /* ---- ---- */
@@ -318,4 +334,134 @@ footer {
 .subfooter {
   border-top: 1px solid #666;
   padding-top: 10px;
+}
+
+.nuestros-clientes {
+  margin: 0 0 50px 0;
+}
+.nuestros-clientes h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 0;
+}
+
+.margin-bottom {
+  margin-bottom: 25px;
+}
+
+.clientes-row {
+  width: 98%;
+  margin: 0 auto;
+}
+
+.clientes {
+  margin: 0;
+  padding: 0;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+.clientes:hover {
+  -webkit-filter: grayscale(100%);
+  cursor: pointer;
+}
+
+.container-nosotros {
+  margin: 0 0 50px 0;
+}
+.container-nosotros h1, .container-nosotros p, .container-nosotros h4 {
+  text-align: center;
+}
+
+.breadcrumb {
+  padding: 8px 25px;
+}
+.breadcrumb a {
+  color: #cc3300;
+}
+
+.description {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.equipo {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.politica {
+  margin-top: 60px;
+}
+.politica h4 {
+  color: #cc3300;
+}
+.politica p {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.app-icon {
+  width: 110px;
+}
+
+.app-item {
+  border-bottom: solid #cbcbcb 1px;
+  width: 90%;
+  margin: 15px auto;
+}
+
+.items {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.apps {
+  text-align: center;
+  margin: 100px 0 80px 0;
+}
+
+.servicios-row {
+  text-align: center;
+  margin: 50px 0 50px 0;
+}
+
+.servicios-container h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.contacto-info {
+  text-align: center;
+}
+.contacto-info p {
+  display: inline;
+}
+.contacto-info h4 {
+  color: #cc3300;
+}
+
+.iframe-height {
+  max-height: 450px;
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+
+.jf-form {
+  margin-bottom: 50px;
+}
+
+.consulta {
+  margin: 50px 0 30px 0;
+}
+
+.map-contacto {
+  max-height: 350px;
+}
+
+.contacto-container h1 {
+  text-align: center;
+  margin: 50px 0;
 }

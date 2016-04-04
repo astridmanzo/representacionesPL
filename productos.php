@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Representaciones PL | Instalación y mantenimiento de equipos contra incendio, seguridad y equipos de protección electrónica.</title>
+    <title>Representaciones PL</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -29,7 +29,7 @@
                  <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> 
                  <a href="contacto.php"><p>0241- 872 0230</p></a>
                  <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> 
-                 <a href="form/contacto.php"><p>info@representacionespl.com.ve</p></a>
+                 <a href="../form/form.html"><p>info@representacionespl.com.ve</p></a>
               </div>
               
               
@@ -50,10 +50,10 @@
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                  <li class="active"><a href="index.php">INICIO</a></li>
+                  <li><a href="index.php">INICIO</a></li>
                   <li><a href="nosotros.php">QUIENES SOMOS</a></li>
                   <li><a href="clientes.php">NUESTROS CLIENTES</a></li>
-                  <li><a href="productos.php">PRODUCTOS</a></li>
+                  <li class="active"><a href="productos.php">PRODUCTOS</a></li>
                   <li><a href="servicios.php">SERVICIOS</a></li>
                   <li><a href="../form/form.html">CONTACTO</a></li>            
                 </ul>
@@ -63,9 +63,14 @@
           
       </div>
   </header>
-  <?php include "slideshow.php" ?>
-  <?php include "serviciosFront.php" ?>
-  <?php include "map.php" ?>
+
+  
+  
+
+
+
+
+
   <?php include "footer.php" ?>
 </div>
 

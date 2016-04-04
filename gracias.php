@@ -63,9 +63,15 @@
           
       </div>
   </header>
-  <?php include "slideshow.php" ?>
-  <?php include "serviciosFront.php" ?>
-  <?php include "map.php" ?>
+  <div class="row gracias">
+    <div class="col-md-12">
+      <h1>Gracias!</h1>
+      <h3> Tu consulta ha sido enviada. Te contactaremos lo más pronto posible</h3>
+      <div class="boton">
+        <a href="/"><button type="button" class="btn btn-warning">Regresar a la página principal</button></a>
+      </div>
+    </div>
+  </div>
   <?php include "footer.php" ?>
 </div>
 

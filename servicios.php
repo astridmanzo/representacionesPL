@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Representaciones PL | Instalación y mantenimiento de equipos contra incendio, seguridad y equipos de protección electrónica.</title>
+    <title>Representaciones PL | Alarmas de robo, cámaras de seguridad, extintores.</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -29,7 +29,7 @@
                  <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> 
                  <a href="contacto.php"><p>0241- 872 0230</p></a>
                  <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> 
-                 <a href="form/contacto.php"><p>info@representacionespl.com.ve</p></a>
+                 <a href="../form/form.html"><p>info@representacionespl.com.ve</p></a>
               </div>
               
               
@@ -50,11 +50,11 @@
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                  <li class="active"><a href="index.php">INICIO</a></li>
+                  <li><a href="index.php">INICIO</a></li>
                   <li><a href="nosotros.php">QUIENES SOMOS</a></li>
                   <li><a href="clientes.php">NUESTROS CLIENTES</a></li>
                   <li><a href="productos.php">PRODUCTOS</a></li>
-                  <li><a href="servicios.php">SERVICIOS</a></li>
+                  <li class="active"><a href="servicios.php">SERVICIOS</a></li>
                   <li><a href="../form/form.html">CONTACTO</a></li>            
                 </ul>
               </div><!-- /.navbar-collapse -->
@@ -63,9 +63,58 @@
           
       </div>
   </header>
-  <?php include "slideshow.php" ?>
-  <?php include "serviciosFront.php" ?>
-  <?php include "map.php" ?>
+
+  
+  <div class="container servicios-container">
+    <ol class="breadcrumb">
+        <li><a href="index.php">Inicio</a></li>
+        <li class="active">Servicios</li>
+      </ol>
+    <div class="row servicios-row">
+      <div class="col-sm-4 servicios">
+        <img src="assets/servicios/alarmas.jpg" class="img-responsive">
+        <h3>Alarmas de Robo</h3>
+      </div>
+      <div class="col-sm-4 servicios">
+        <img src="assets/servicios/camara.jpg" class="img-responsive">
+        <h3>Cámaras de Seguridad</h3>
+      </div>
+      <div class="col-sm-4 servicios">
+        <img src="assets/servicios/extintor.jpg" class="img-responsive">
+        <h3>Mantenimiento y Recarga de extintores</h3>
+      </div>
+    </div>
+    <div class="row servicios-row">
+      <div class="col-sm-4">
+        <img src="assets/servicios/agua.jpg" class="img-responsive">
+        <h3>Mantenimiento e Instalación de Sistemas Contra Incendio a base de agua</h3>
+      </div>
+      <div class="col-sm-4">
+        <img src="assets/servicios/deteccion.jpg" class="img-responsive">
+        <h3>Mantenimiento e Instalación de Sistemas de detección</h3>
+      </div>
+      <div class="col-sm-4">
+        <img src="assets/servicios/cocinas.jpg" class="img-responsive">
+        <h3>Mantenimiento e Instalación de Sistemas de cocinas</h3>
+      </div>
+    </div>
+    <div class="row servicios-row">
+      <div class="col-sm-4">
+      </div>
+      <div class="col-sm-4">
+        <img src="assets/servicios/servidores.jpg" class="img-responsive">
+        <h3>Mantenimiento e Instalación de Sistemas de agentes limpios para sala de servidores</h3>
+      </div>
+      <div class="col-sm-4">
+      </div>
+
+  </div>
+
+
+
+
+
+
   <?php include "footer.php" ?>
 </div>
 
