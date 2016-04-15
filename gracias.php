@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Representaciones PL | Instalación y mantenimiento de equipos contra incendio, seguridad y equipos de protección electrónica.</title>
+    <title>Representaciones PL | Gracias!.</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

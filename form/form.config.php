@@ -57,7 +57,7 @@ class Config {
 {
     "formId": "jqueryform-266645",
     "email": {
-        "to": "astridmanzo@gmail.com",
+        "to": "info@representacionespl.com.ve",
         "cc": "",
         "bcc": "",
         "subject": "Contacto Web Representaciones PL",

@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Representaciones PL | Soluciones integrales en sistemas y equipo contra incendio, a través de productos y servicios de calidad y alta tecnología</title>
-    <meta name="description" content="">
+    <title>Nosotros | Representaciones PL</title>
+    <meta name="description" content="Empresa de origen venezolano líder en el mercado, especializada en la Venta, Distribución, Instalación y Mantenimiento de Equipos Contra Incendio, Seguridad Electrónica y Equipos de Proteción Personal.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -27,7 +27,7 @@
               </div>
               <div class="col-md-7 col-sm-12 align">
                  <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> 
-                 <a href="contacto.php"><p>0241- 872 0230</p></a>
+                 <a href="form/form.html"><p>0241- 872 0230</p></a>
                  <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> 
                  <a href="../form/form.html"><p>info@representacionespl.com.ve</p></a>
               </div>
@@ -44,17 +44,17 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand logo-nav" href="index.php"><img src="logo.png"><h2 class="logo-text">Representaciones PL</h2></a>
+                <a class="navbar-brand logo-nav" href="/"><img src="logo.png"><h2 class="logo-text">Representaciones PL</h2></a>
               </div>
 
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                  <li><a href="index.php">INICIO</a></li>
-                  <li class="active"><a href="nosotros.php">QUIENES SOMOS</a></li>
-                  <li><a href="clientes.php">NUESTROS CLIENTES</a></li>
-                  <li><a href="productos.php">PRODUCTOS</a></li>
-                  <li><a href="servicios.php">SERVICIOS</a></li>
+                  <li><a href="/">INICIO</a></li>
+                  <li class="active"><a href="nosotros">QUIENES SOMOS</a></li>
+                  <li><a href="clientes">NUESTROS CLIENTES</a></li>
+                  <li><a href="productos">PRODUCTOS</a></li>
+                  <li><a href="servicios">SERVICIOS</a></li>
                   <li><a href="../form/form.html">CONTACTO</a></li>            
                 </ul>
               </div><!-- /.navbar-collapse -->
@@ -69,7 +69,7 @@
   <div class="container container-nosotros">
     <div class="row">
       <ol class="breadcrumb">
-        <li><a href="index.php">Inicio</a></li>
+        <li><a href="/">Inicio</a></li>
         <li class="active">Quienes Somos</li>
       </ol>
     </div>
@@ -81,7 +81,7 @@
     </div>
     <div class="row politica vcenter">
       <div class="col-md-6">
-        <img src="assets/nosotros.png" class="img-responsive equipo">
+        <img src="assets/nosotros.JPG" class="img-responsive equipo">
       </div>
       <div class="col-md-6">
         <h4>POLÍTICA DE CALIDAD</h4>
@@ -95,60 +95,60 @@
     </div>
     <div class="row items">
       <div class="col-md-6">
-        <img src="assets/aplicaciones/petroleo.svg" class="app-icon">
+        <img src="assets/aplicaciones/petroleo.png" class="app-icon">
         <p>Petróleo</p>
         <div class="app-item"></div>
       </div>
       <div class="col-md-6">
-        <img src="assets/aplicaciones/financiero.svg" class="app-icon">
+        <img src="assets/aplicaciones/financiero.png" class="app-icon">
         <p>Financiero</p>
         <div class="app-item"></div>
       </div>
     </div>
     <div class="row items">
       <div class="col-md-6">
-        <img src="assets/aplicaciones/energia.svg" class="app-icon">
+        <img src="assets/aplicaciones/energia.png" class="app-icon">
         <p>Energía</p>
         <div class="app-item"></div>
       </div>
       <div class="col-md-6">
-        <img src="assets/aplicaciones/telecomunicaciones.svg" class="app-icon">
+        <img src="assets/aplicaciones/telecomunicaciones.png" class="app-icon">
         <p>Telecomunicaciones</p>
         <div class="app-item"></div>
       </div>
     </div>
     <div class="row items">
       <div class="col-md-6">
-        <img src="assets/aplicaciones/turismo.svg" class="app-icon">
+        <img src="assets/aplicaciones/turismo.png" class="app-icon">
         <p>Turismo</p>
         <div class="app-item"></div>
       </div>
       <div class="col-md-6">
-        <img src="assets/aplicaciones/marino.svg" class="app-icon">
+        <img src="assets/aplicaciones/marino.png" class="app-icon">
         <p>Marino</p>
         <div class="app-item"></div>
       </div>
     </div>
     <div class="row items">
       <div class="col-md-6">
-        <img src="assets/aplicaciones/industrial.svg" class="app-icon">
+        <img src="assets/aplicaciones/industrial.png" class="app-icon">
         <p>Industrial</p>
         <div class="app-item"></div>
       </div>
       <div class="col-md-6">
-        <img src="assets/aplicaciones/minero.svg" class="app-icon">
+        <img src="assets/aplicaciones/minero.png" class="app-icon">
         <p>Minero</p>
         <div class="app-item"></div>
       </div>
     </div>
     <div class="row items">
       <div class="col-md-6">
-        <img src="assets/aplicaciones/cocinas.svg" class="app-icon">
+        <img src="assets/aplicaciones/cocinas.png" class="app-icon">
         <p>Cocinas Comerciales</p>
         <div class="app-item"></div>
       </div>
       <div class="col-md-6">
-        <img src="assets/aplicaciones/comercial.svg" class="app-icon">
+        <img src="assets/aplicaciones/comercial.png" class="app-icon">
         <p>Comercial</p>
         <div class="app-item"></div>
       </div>

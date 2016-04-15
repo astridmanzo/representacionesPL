@@ -24,21 +24,21 @@
 		<div class="col-md-7 iconos-servicios">
 			<div class="row">
 				<div class="col-md-6 col-sm-6 svg-img">
-					<img src="assets/venta.svg">
+					<img src="assets/venta.png">
 					<p>Venta</p>
 				</div>
 				<div class="col-md-6 col-sm-6 svg-img">
-					<img src="assets/distribucion.svg">
+					<img src="assets/distribucion.png">
 					<p>Distribución</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6 svg-img">
-					<img src="assets/instalacion.svg">
+					<img src="assets/instalacion.png">
 					<p>Instalación y mantenimiento de equipos contra incendio</p>
 				</div>
 				<div class="col-md-6 col-sm-6 svg-img">
-					<img src="assets/seguridad.svg">
+					<img src="assets/seguridad.png">
 					<p>Seguridad electrónica y equipos de protección personal</p>
 				</div>
 			</div>

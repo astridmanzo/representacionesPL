@@ -2,7 +2,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 logo-footer">
-				<a href="index.php"><img src="../logo.png"><h2>Representaciones PL</h2></a>
+				<a href="/"><img src="../logo.png"><h2>Representaciones PL</h2>
+				</a>
+				<p>Rif: J-30107765-2</p>
 			</div>
 		</div>
 		<div class="row">

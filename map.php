@@ -30,7 +30,7 @@
 		</div>
 		<div class="col-md-7 col-sm-12">
 			<div class="embed-responsive embed-responsive-16by9 mapa">
-			  <iframe src="https://www.google.com/maps/embed/v1/place?q=Representaciones%20PL&key=AIzaSyCI6kNIvGWAC1kvs0h4xQj3QHrqaLKrYBk" allowfullscreen></iframe>
+			  <iframe src="https://www.google.com/maps/embed/v1/place?q=Representaciones%20PL&key=AIzaSyB7of4rYBgZMa1xaBxaYXiSkrAcPIEqSaE&sensor=true" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>

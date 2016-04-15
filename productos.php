@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="utf-8">
+<head><meta http-equiv="Content-Type" content="text/html; charset=gb18030">
+    
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Representaciones PL</title>
-    <meta name="description" content="">
+    <title>Productos | Representaciones PL </title>
+    <meta name="description" content="Venta, Distribución, Instalación y Mantenimiento de Equipos Contra Incendio, Seguridad Electrónica y Equipos de Proteción Personal.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -44,17 +44,17 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand logo-nav" href="index.php"><img src="logo.png"><h2 class="logo-text">Representaciones PL</h2></a>
+                <a class="navbar-brand logo-nav" href="/"><img src="logo.png"><h2 class="logo-text">Representaciones PL</h2></a>
               </div>
 
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                  <li><a href="index.php">INICIO</a></li>
-                  <li><a href="nosotros.php">QUIENES SOMOS</a></li>
-                  <li><a href="clientes.php">NUESTROS CLIENTES</a></li>
+                  <li><a href="/">INICIO</a></li>
+                  <li><a href="nosotros">QUIENES SOMOS</a></li>
+                  <li><a href="clientes">NUESTROS CLIENTES</a></li>
                   <li class="active"><a href="productos.php">PRODUCTOS</a></li>
-                  <li><a href="servicios.php">SERVICIOS</a></li>
+                  <li><a href="servicios">SERVICIOS</a></li>
                   <li><a href="../form/form.html">CONTACTO</a></li>            
                 </ul>
               </div><!-- /.navbar-collapse -->

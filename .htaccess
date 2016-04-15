@@ -1,7 +1,0 @@
-RewriteEngine On
-RewriteBase /
-RewriteRule ^inicio$ index.php [L]
-RewriteRule ^contacto$ form/contacto.php [L]
-
-#### Rule for Error Page - 404 ####
-ErrorDocument 404 404.php

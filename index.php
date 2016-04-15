@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="utf-8">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+       
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Representaciones PL | Instalaci√≥n y mantenimiento de equipos contra incendio, seguridad y equipos de protecci√≥n electr√≥nica.</title>
-    <meta name="description" content="">
+    <meta name="description" content="Empresa comprometida en proveer soluciones integrales en sistemas y equipos contra incendio, a trav®¶s de productos y servicios de calidad y alta tecnolog®™a.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -44,17 +44,17 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand logo-nav" href="index.php"><img src="logo.png"><h2 class="logo-text">Representaciones PL</h2></a>
+                <a class="navbar-brand logo-nav" href="/"><img src="logo.png"><h2 class="logo-text">Representaciones PL</h2></a>
               </div>
 
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                  <li class="active"><a href="index.php">INICIO</a></li>
-                  <li><a href="nosotros.php">QUIENES SOMOS</a></li>
-                  <li><a href="clientes.php">NUESTROS CLIENTES</a></li>
-                  <li><a href="productos.php">PRODUCTOS</a></li>
-                  <li><a href="servicios.php">SERVICIOS</a></li>
+                  <li class="active"><a href="/">INICIO</a></li>
+                  <li><a href="nosotros">QUIENES SOMOS</a></li>
+                  <li><a href="clientes">NUESTROS CLIENTES</a></li>
+                  <li><a href="productos">PRODUCTOS</a></li>
+                  <li><a href="servicios">SERVICIOS</a></li>
                   <li><a href="../form/form.html">CONTACTO</a></li>            
                 </ul>
               </div><!-- /.navbar-collapse -->
@@ -82,7 +82,8 @@
     $('.my-slider').unslider();
   });
 </script>
- 
+
+
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>
